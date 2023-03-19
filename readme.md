@@ -12,15 +12,18 @@ BONUS POINT: add project functionality to the tasks. User should be able to sele
 You will be graded on how well-written & readable your code is, if it works, and if you did it the Laravel way.
 
 ## Installation
-"php": "^7.1.3",
-"laravel/framework": "5.8.*",
-
-just run php artisan migrate and php artisan db:seed.
+If you extract the zip file then just run php artisan migrate and php artisan db:seed.
 
 Login Details:
 Username: jdoe@localhost.com
 Password: secret
 
+If you face any issue then here is the git repository URL: https://github.com/parthgajjar34/task-manager
+
+Steps:
+Composer update
+php artisan migrate
+php artisan db:seed
 
 on the root of the project
 
